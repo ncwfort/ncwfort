@@ -1,16 +1,40 @@
-## Hi there 👋
+# Nic Fort
 
-<!--
-**ncwfort/ncwfort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Quantitative researcher working at the intersection of macroeconomics, agent-based
+modeling, and statistical computing. I build simulations and estimation code to study
+how economic systems behave when you take heterogeneity seriously.
 
-Here are some ideas to get you started:
+**Currently open to quantitative research roles** — economics, policy research, or
+data-heavy analytical work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work on
+
+**Macroeconomic modeling.** My main project is an agent-based multi-sectoral inflation
+model that extends Mark Setterfield's conflicting-claims framework. Instead of a single
+representative sector, it simulates many sectors that differ in how often wages are
+renegotiated, how quickly prices adjust, and how productivity evolves — which lets you
+trace how a shock in one part of the economy propagates into aggregate inflation.
+
+**Statistical computing.** I implement algorithms from first principles rather than
+calling libraries — linear algebra routines, least squares, probability distributions,
+learning agents, and text models — mostly in Julia, as a way of actually understanding
+the methods I use.
+
+**Applied data analysis.** Cleaning, clustering, and analysis pipelines in Python, plus
+the general plumbing of reproducible research.
+
+## Repositories
+
+| Repo | What it is |
+| --- | --- |
+| [inflation-dynamics](https://github.com/ncwfort/inflation-dynamics) | Agent-based multi-sectoral inflation model with heterogeneous sectors (Python) |
+| [practical-julia](https://github.com/ncwfort/practical-julia) | Statistical algorithms implemented from scratch in Julia |
+| [clw](https://github.com/ncwfort/clw) | Work from the 2026 Computer Language Workshop — data cleaning, clustering, analysis |
+
+## Tools
+
+Python (NumPy, pandas, matplotlib) · Julia · Jupyter · Git
+
+## Contact
+
+ncwfort@gmail.com
