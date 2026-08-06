@@ -15,7 +15,7 @@ representative sector, it simulates many sectors that differ in how often wages 
 renegotiated, how quickly prices adjust, and how productivity evolves — which lets you
 trace how a shock in one part of the economy propagates into aggregate inflation.
 
-**Systems, from the gate up.** I worked through Nand2Tetris by implementing the whole
+**Systems, from the gate up.** I built on my systems experience in Stanford's CS107E to understand how computers really function, working through Nand2Tetris by implementing the whole
 stack myself in Python: simulated NAND gates, then memory, a CPU, an assembler, a VM
 translator, and finally a compiler for the Jack language — plus Pygame front-ends for
 running programs on the machine. It is the same instinct that drives the modeling work,
