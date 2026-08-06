@@ -1,6 +1,6 @@
 # Nic Fort
 
-Quantitative researcher working at the intersection of macroeconomics, agent-based
+Quantitative researcher working at the intersection of economics, agent-based
 modeling, and statistical computing. I build simulations and estimation code to study
 how economic systems behave when you take heterogeneity seriously.
 
@@ -15,6 +15,12 @@ representative sector, it simulates many sectors that differ in how often wages 
 renegotiated, how quickly prices adjust, and how productivity evolves — which lets you
 trace how a shock in one part of the economy propagates into aggregate inflation.
 
+**Systems, from the gate up.** I worked through Nand2Tetris by implementing the whole
+stack myself in Python: simulated NAND gates, then memory, a CPU, an assembler, a VM
+translator, and finally a compiler for the Jack language — plus Pygame front-ends for
+running programs on the machine. It is the same instinct that drives the modeling work,
+applied one level down.
+
 **Statistical computing.** I implement algorithms from first principles rather than
 calling libraries — linear algebra routines, least squares, probability distributions,
 learning agents, and text models — mostly in Julia, as a way of actually understanding
@@ -28,6 +34,7 @@ the general plumbing of reproducible research.
 | Repo | What it is |
 | --- | --- |
 | [inflation-dynamics](https://github.com/ncwfort/inflation-dynamics) | Agent-based multi-sectoral inflation model with heterogeneous sectors (Python) |
+| [nand2tetris](https://github.com/ncwfort/nand2tetris) | A complete computer built from simulated NAND gates up to a working compiler (Python) |
 | [practical-julia](https://github.com/ncwfort/practical-julia) | Statistical algorithms implemented from scratch in Julia |
 | [clw](https://github.com/ncwfort/clw) | Work from the 2026 Computer Language Workshop — data cleaning, clustering, analysis |
 
