@@ -40,7 +40,7 @@ the general plumbing of reproducible research.
 
 ## Tools
 
-Python (NumPy, pandas, matplotlib) · Julia · Jupyter · Git
+Python (NumPy, pandas, matplotlib) · R (tidyverse) · Julia · Jupyter · Git · Claude Code
 
 ## Contact
 
