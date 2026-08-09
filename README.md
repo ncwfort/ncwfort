@@ -21,7 +21,7 @@ translator, and finally a compiler for the Jack language — plus Pygame front-e
 running programs on the machine. It is the same instinct that drives the modeling work,
 applied one level down.
 
-**Statistical computing.** For fun, I implement algorithms from first principles rather than
+**Statistical computing.** For my own learning, I implement algorithms from first principles rather than
 calling libraries — linear algebra routines, least squares, probability distributions,
 learning agents, and text models — mostly in Julia, as a way of actually understanding
 the methods I use.
