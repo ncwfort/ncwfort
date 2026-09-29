@@ -4,9 +4,6 @@ Quantitative researcher working at the intersection of economics, agent-based
 modeling, and statistical computing. I build simulations and estimation code to study
 how economic systems behave when you take heterogeneity seriously.
 
-**Currently open to quantitative research roles** — economics, policy research, or
-data-heavy analytical work.
-
 ## What I work on
 
 **Macroeconomic modeling.** My main project is an agent-based multi-sectoral inflation
